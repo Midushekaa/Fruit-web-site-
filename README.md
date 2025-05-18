@@ -1,2 +1,2 @@
 # Fruit-web-site-
-FreshFruitHub is a vibrant website built with HTML, styled using CSS, and enhanced by Bootstrap to showcase fresh, delicious fruits beautifully.
+FreshFruitHub is a vibrant and colorful website designed using HTML for structure, CSS for style, and Bootstrap for responsive design. It beautifully showcases fresh, delicious fruits 🍎🍌🍇🍓🍉🍊🍍🥝🍒🍑🍈 in an engaging, mobile-friendly layout. The site ensures a seamless browsing experience, letting users explore and enjoy a wide variety of healthy fruit options on any device.
